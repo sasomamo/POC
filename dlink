@@ -3,6 +3,7 @@
 <body>
 <h1>test</h1>
 <script>
+alert("Test");
 alert(newsHuntAction.getUniqueAuthToken());
 alert(newsHuntAction.getUserId());
 alert(newsHuntAction.getCookie('https://api.myjosh.in/','JSESSIONID'));
